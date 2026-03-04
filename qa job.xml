@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+  <job>
+    <title>QA Dummy Job - Delta Test</title>
+    <company>QA Testing Inc</company>
+    <city>Toronto</city>
+    <description>This job was created for delta testing.</description>
+    <referencenumber>QA12345</referencenumber>
+    <date>2026-03-04</date>
+  </job>
+</jobs>
