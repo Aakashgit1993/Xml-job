@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jobs>
   <job>
-    <title>QA Dummy Job - Delta Test</title>
-    <company>QA Testing Inc</company>
+    <title>Software QA Tester</title>
+    <company>QA Corp</company>
     <city>Toronto</city>
-    <description>This job was created for delta testing.</description>
-    <referencenumber>QA12345</referencenumber>
+    <description><![CDATA[This is a QA testing job for XML ingestion validation.]]></description>
+    <referencenumber>QA1001</referencenumber>
+    <url>https://example.com/jobs/qa-tester</url>
+    <date>2026-03-04</date>
+  </job>
+
+  <job>
+    <title>Automation Engineer</title>
+    <company>QA Corp</company>
+    <city>Vancouver</city>
+    <description><![CDATA[Automation engineer role for testing job feeds.]]></description>
+    <referencenumber>QA1002</referencenumber>
+    <url>https://example.com/jobs/automation-engineer</url>
     <date>2026-03-04</date>
   </job>
 </jobs>
