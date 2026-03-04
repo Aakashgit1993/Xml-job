@@ -31,4 +31,14 @@
     <date>2026-03-04</date>
   </job>
 
+  <job>
+    <title>Senior QA Engineer – Montréal</title>
+    <company>Innové Tech & Solutions</company>
+    <city>Montréal</city>
+    <description><![CDATA[Looking for a Senior QA Engineer with experience in automation & API testing. Knowledge of tools like Selenium, Postman, and CI/CD pipelines is required. Salary: $90,000 – $110,000.]]></description>
+    <referencenumber>QA1004</referencenumber>
+    <url>https://example.com/jobs/senior-qa-engineer-montreal</url>
+    <date>2026-03-04</date>
+  </job>
+
 </jobs>
